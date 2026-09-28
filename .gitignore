@@ -1,0 +1,8 @@
+node_modules
+.wrangler-deploy
+*.log
+.DS_Store
+.env
+.env.local
+.vscode
+.idea

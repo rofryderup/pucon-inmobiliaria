@@ -1,0 +1,6 @@
+# Cloudflare Pages - SPA fallback
+# Convierte cualquier ruta no existente en index.html (single-page app)
+/*    /index.html   200
+
+# Forzar HTTPS
+# http://*  https://:1  301!

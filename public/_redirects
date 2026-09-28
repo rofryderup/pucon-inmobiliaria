@@ -1,4 +1,1 @@
 # Cloudflare Workers: el fallback SPA se configura en wrangler.jsonc
-
-# Forzar HTTPS
-http://* https://:1 301!
